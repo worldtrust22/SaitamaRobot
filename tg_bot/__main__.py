@@ -18,12 +18,20 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 Hi {}, my name is {}! 
+
 I am an Anime themed group management bot.
-To add me to your group click ["HERE"](t.me/SaitamaRobot?startgroup=botstart)
+
+Thanks To [My Peru Owner](t.me/worldtrust) Who Managing Me
+
+Nd Special Thanks To [This Noob](t.me/spyder_xd) 
+
+Don't Forget To Check out [Spider](t.me/spiderman_probot) 
+
+To add me to your group click [HERE](t.me/ShizukaGirlBot?startgroup=botstart)
+
 You can find my list of available commands with /help.
 
-[Saitama's Repo](github.com/AnimeKaizoku/SaitamaRobot) 
-See [Basic Configuration Checklist](t.me/OnePunchUpdates/29) on how to secure your group.
+
 The support group chat is at {}.
 """
 
